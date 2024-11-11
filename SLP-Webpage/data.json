@@ -1,0 +1,77 @@
+[
+    {
+        "title": "International Coding Education (ICE) Challenge - Code Combat (HK-MO-TW)",
+        "description": "Received Top Coder Certificate in screening round and Gold Award in grand final",
+        "imageURL": "./img/1.png"
+    },
+    {
+        "title": "5G Campus Application Competition VR/AR STEM Training Workshop",
+        "description": "Participating teams in the competition attended a 2.5-day VR/AR STEM training workshop and a 0.5-day presentation workshop to enhance our understanding of 5G smart campus design. We learned practical VR/AR production skills, the latest trends in 3D modeling, AR filter creation, basic programming concepts, and presentation skills.",
+        "imageURL": "./img/2.png"
+    },
+    {
+        "title": "5G Campus Application Competition",
+        "description": "Teams ranked 4th to 10th will receive Merit Awards.",
+        "imageURL": "./img/3.png"
+    },
+    {
+        "title": "第二十屆港澳青少年網路技能大賽 2024",
+        "description": "獲得金獎",
+        "imageURL": "./img/4.png"
+    },
+    {
+        "title": "CodeQuest International Hackathon",
+        "description": "Participants ranked in the top 5% will receive the First Prize Award. I achieved 35th place worldwide.",
+        "imageURL": "./img/5.png"
+    },
+    {
+        "title": "Hong Kong Secondary School Coding Challenge",
+        "description": "I advanced to the finals and received a participation certificate.",
+        "imageURL": "./img/6.png"
+    },
+    {
+        "title": "2024 Mini Competition 0",
+        "description": "A online contest held by HKOI",
+        "imageURL": "./img/7.png"
+    },
+    {
+        "title": "Mathematics Day Camp \"Boolean Algebra and its Applications\"",
+        "description": "A workshop held by CUHK",
+        "imageURL": "./img/8.png"
+    },
+    {
+        "title": "Hong Kong Olympiad in Informatics",
+        "description": "A contest",
+        "imageURL": "./img/9.png"
+    },
+    {
+        "title": "School Maker Faire",
+        "description": "I organized and operated two booths with other members of the school's Programming Training Team at the Maker Faire.",
+        "imageURL": "./img/10.png"
+    },
+    {
+        "title": "Artificial Intelligence Literacy Programme",
+        "description": "I have completed a 60-hour program on machine learning, deep learning, and real-life AI application development.",
+        "imageURL": "./img/11.png"
+    },
+    {
+        "title": "Machine Learning with Python",
+        "description": "I have successfully completed the Machine Learning with Python Developer Certification representing approximately 300 hours of work.",
+        "imageURL": "./img/12.png"
+    },
+    {
+        "title": "International Coding Education (ICE) Challenge - Code Combat (HK-MO-TW)",
+        "description": "Organized by ICE FOUNDATION, Hong Kong Education City, The Hong Kong Association for Computer Education",
+        "imageURL": "./img/13.png"
+    },
+    {
+        "title": "Youth Organizing Committee",
+        "description": "I participated in a 25-hour voluntary service with this organization from September to October 2023. My main responsibility was organizing events aimed at teenagers.",
+        "imageURL": "./img/14.png"
+    },
+    {
+        "title": "Mentorship Programme",
+        "description": "In this program, I had the opportunity to meet mentors from the IT industry who provided support and suggestions for my career development.",
+        "imageURL": "./img/15.png"
+    }
+]
